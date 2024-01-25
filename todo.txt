@@ -1,0 +1,8 @@
+Agenda
+next time
+    - config set up properties
+    - tutorial screen
+
+References
+Raylib: https://www.raylib.com/
+Asteriods: https://en.wikipedia.org/wiki/Asteroids_(video_game)
